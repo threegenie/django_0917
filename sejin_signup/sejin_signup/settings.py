@@ -123,6 +123,6 @@ STATIC_URL = '/static/'
 EMAIL_HOST = 'stmp.gmail.com'
 EMAIL_POST = '587'
 EMAIL_HOST_USER = threegenie@likelion.org
-EMAIL_HOST_PASSWORD = remember00
+EMAIL_HOST_PASSWORD = remem7447
 EMAIL_USE_TLS = True
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
